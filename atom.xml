@@ -6,7 +6,7 @@
   <link href="/navear/atom.xml" rel="self"/>
   
   <link href="https://kkk33.github.io/navear/"/>
-  <updated>2018-07-28T18:35:36.000Z</updated>
+  <updated>2018-08-01T19:06:08.000Z</updated>
   <id>https://kkk33.github.io/navear/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>本站</title>
+    <link href="https://kkk33.github.io/navear/2018/08/01/ut/"/>
+    <id>https://kkk33.github.io/navear/2018/08/01/ut/</id>
+    <published>2018-08-01T19:06:08.000Z</published>
+    <updated>2018-08-01T19:06:08.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Navear是什么？"><a href="#Navear是什么？" class="headerlink" title="Navear是什么？"></a>Navear是什么？</h3><p>Navear是我的村庄。一个自由与快乐的集中地。</p><h3 id="我是谁？"><a href="#我是谁？" class="headerlink" title="我是谁？"></a>我是谁？</h3><p>我是K。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;Navear是什么？&quot;&gt;&lt;a href=&quot;#Navear是什么？&quot; class=&quot;headerlink&quot; title=&quot;Navear是什么？&quot;&gt;&lt;/a&gt;Navear是什么？&lt;/h3&gt;&lt;p&gt;Navear是我的村庄。一个自由与快乐的集中地。&lt;/p&gt;
+&lt;h3 id=&quot;我
+      
+    
+    </summary>
+    
+      <category term="about" scheme="https://kkk33.github.io/navear/categories/about/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>使用hexo和githug pages建立博客</title>
